@@ -1,0 +1,105 @@
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\DoiTac.exe
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\DoiTac.deps.json
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\DoiTac.runtimeconfig.json
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\DoiTac.dll
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\DoiTac.pdb
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.csproj.AssemblyReference.cache
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.csproj.GenerateResource.cache
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.AssemblyInfoInputs.cache
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.AssemblyInfo.cs
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.csproj.CoreCompileInputs.cache
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.dll
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\refint\DoiTac.dll
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.pdb
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.genruntimeconfig.cache
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\ref\DoiTac.dll
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.Login.resources
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.Properties.Resources.resources
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.Register.resources
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.Home.resources
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\khai5\source\repos\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.csproj.CopyComplete
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\DoiTac.exe
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\DoiTac.deps.json
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\DoiTac.runtimeconfig.json
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\DoiTac.dll
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\DoiTac.pdb
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.csproj.AssemblyReference.cache
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.Home.resources
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.Login.resources
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.Properties.Resources.resources
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.Register.resources
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.csproj.GenerateResource.cache
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.AssemblyInfoInputs.cache
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.AssemblyInfo.cs
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.csproj.CoreCompileInputs.cache
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.csproj.CopyComplete
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.dll
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\refint\DoiTac.dll
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.pdb
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.genruntimeconfig.cache
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\ref\DoiTac.dll
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\khai5\source\repos\QuanLyDuAngit\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.csproj.AssemblyReference.cache
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.Home.resources
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.Login.resources
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.Properties.Resources.resources
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.Register.resources
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.csproj.GenerateResource.cache
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.AssemblyInfoInputs.cache
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.AssemblyInfo.cs
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.csproj.CoreCompileInputs.cache
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.dll
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\refint\DoiTac.dll
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.pdb
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\DoiTac.exe
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\DoiTac.deps.json
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\DoiTac.runtimeconfig.json
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\DoiTac.dll
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\DoiTac.pdb
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.csproj.CopyComplete
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\DoiTac.genruntimeconfig.cache
+C:\Users\khai5\OneDrive\Tài liệu\GitHub\QuanlyDuAn\QuanlyDuAn\DoiTac\obj\Debug\net6.0-windows\ref\DoiTac.dll
