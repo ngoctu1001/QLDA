@@ -92,6 +92,7 @@
             resources.ApplyResources(lb_ThongBao, "lb_ThongBao");
             lb_ThongBao.BackColor = Color.Linen;
             lb_ThongBao.Name = "lb_ThongBao";
+            lb_ThongBao.Hide();
             // 
             // Register
             // 

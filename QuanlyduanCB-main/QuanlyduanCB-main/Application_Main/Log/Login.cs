@@ -33,10 +33,7 @@ namespace Application
 
             if (conectionSQL.getDataTk(txt_TenDn.Text, txt_Mk.Text) == "DT")
             {
-                this.Hide();
-                HomeDT home = new HomeDT();
-                home.ShowDialog();
-                this.Close();
+
             }
             else
             {

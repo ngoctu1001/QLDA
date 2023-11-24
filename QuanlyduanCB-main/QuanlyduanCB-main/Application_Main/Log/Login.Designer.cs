@@ -78,8 +78,8 @@
             // 
             resources.ApplyResources(lb_TB, "lb_TB");
             lb_TB.ForeColor = Color.OrangeRed;
-            lb_TB.Image = QuanLyDuAnBDS.Properties.Resources.banner2;
             lb_TB.Name = "lb_TB";
+            lb_TB.Hide();
             // 
             // Login
             // 

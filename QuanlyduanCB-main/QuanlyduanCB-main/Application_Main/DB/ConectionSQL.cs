@@ -20,7 +20,7 @@ namespace QuanLyDuAnBDS.DB
         public void Ketnoi()
         {
             // chuỗi kết nối csdl
-            string s = "Data Source =.; Initial Catalog = QLBDS; Integrated Security = True";
+            string s = "Data Source =MSI\\SQLEXPRESS; Initial Catalog = QLBDS; Integrated Security = True";
             conn = new SqlConnection(s); //  khởi tạo kết nối
             da = new SqlDataAdapter(); // khởi tạo bộ điều phối dữ liệu
             ds = new DataSet(); // khởi tạo ảnh của cơ sở dữ liệu
@@ -98,8 +98,8 @@ namespace QuanLyDuAnBDS.DB
                             com = new SqlCommand($"Insert into TkDangNhap Values ( null , null ,N'{tk}' , N'{mk}' ,'N'{hvt}',{(gt == "Nam" ? 0 : gt == "Nữ" ? 1 : 2)},N'{ns.Value.ToString("dd-MM-yyyy")}','{gmail}','{sdt}')" , conn);
                             TkDangNhap tkdn = new TkDangNhap()
                             {
-                                
-                            }
+
+                            };
                             return true;
                         }
                         else
