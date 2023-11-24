@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/HRVVcXoAj8ZLWp4Lc0DPyO97Rxlvu6FtYERv06bs/v39Ov4CikViLPY5E5vp+pLCTSogij0dSqHsZBS2ZiWLQ==",
+  "dgSpecHash": "2MrOpMbphRuNcf6wOpJqupJ7t3Gc5loNNIsrtt9V4hGZq0aAvkz3CwUMcCfDcGT9qnimSvhCnbzdkt5fhPXVSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\FPTSHOP\\Desktop\\QuanlyduanCB-main\\QuanlyduanCB-main\\Application_Main\\QuanLyDuAnBDS.csproj",
+  "projectFilePath": "C:\\Users\\FPTSHOP\\Documents\\GitHub\\QLDA\\QuanlyduanCB-main\\QuanlyduanCB-main\\Application_Main\\QuanLyDuAnBDS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\FPTSHOP\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\FPTSHOP\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

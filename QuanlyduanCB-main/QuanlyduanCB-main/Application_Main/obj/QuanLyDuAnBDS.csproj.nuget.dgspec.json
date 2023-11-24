@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FPTSHOP\\Desktop\\QuanlyduanCB-main\\QuanlyduanCB-main\\Application_Main\\QuanLyDuAnBDS.csproj": {}
+    "C:\\Users\\FPTSHOP\\Documents\\GitHub\\QLDA\\QuanlyduanCB-main\\QuanlyduanCB-main\\Application_Main\\QuanLyDuAnBDS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FPTSHOP\\Desktop\\QuanlyduanCB-main\\QuanlyduanCB-main\\Application_Main\\QuanLyDuAnBDS.csproj": {
+    "C:\\Users\\FPTSHOP\\Documents\\GitHub\\QLDA\\QuanlyduanCB-main\\QuanlyduanCB-main\\Application_Main\\QuanLyDuAnBDS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FPTSHOP\\Desktop\\QuanlyduanCB-main\\QuanlyduanCB-main\\Application_Main\\QuanLyDuAnBDS.csproj",
+        "projectUniqueName": "C:\\Users\\FPTSHOP\\Documents\\GitHub\\QLDA\\QuanlyduanCB-main\\QuanlyduanCB-main\\Application_Main\\QuanLyDuAnBDS.csproj",
         "projectName": "QuanLyDuAnBDS",
-        "projectPath": "C:\\Users\\FPTSHOP\\Desktop\\QuanlyduanCB-main\\QuanlyduanCB-main\\Application_Main\\QuanLyDuAnBDS.csproj",
+        "projectPath": "C:\\Users\\FPTSHOP\\Documents\\GitHub\\QLDA\\QuanlyduanCB-main\\QuanlyduanCB-main\\Application_Main\\QuanLyDuAnBDS.csproj",
         "packagesPath": "C:\\Users\\FPTSHOP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FPTSHOP\\Desktop\\QuanlyduanCB-main\\QuanlyduanCB-main\\Application_Main\\obj\\",
+        "outputPath": "C:\\Users\\FPTSHOP\\Documents\\GitHub\\QLDA\\QuanlyduanCB-main\\QuanlyduanCB-main\\Application_Main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\FPTSHOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
