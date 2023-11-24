@@ -1,4 +1,5 @@
-﻿using QuanLyDuAnBDS.Models;
+﻿using QuanLyDuAnBDS.Context;
+using QuanLyDuAnBDS.DomainClass;
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -16,11 +17,11 @@ namespace QuanLyDuAnBDS.DB
         SqlCommand com; // Hỗ trợ xử lý lệnh
         SqlDataAdapter da; //adapter
         DataSet ds; // anh bang du lieu
-        QlbdsContext db = new();
+        DBContext db = new();
         public void Ketnoi()
         {
             // chuỗi kết nối csdl
-            string s = "Data Source =MSI\\SQLEXPRESS; Initial Catalog = QLBDS; Integrated Security = True";
+            string s = "Data Source=MSI\\SQLEXPRESS;Initial Catalog=QLBDS;Integrated Security=True";
             conn = new SqlConnection(s); //  khởi tạo kết nối
             da = new SqlDataAdapter(); // khởi tạo bộ điều phối dữ liệu
             ds = new DataSet(); // khởi tạo ảnh của cơ sở dữ liệu
@@ -96,7 +97,7 @@ namespace QuanLyDuAnBDS.DB
                         if (!string.IsNullOrEmpty(sdt) && sdt.Length > 9 && (sdt.StartsWith("01") || sdt.StartsWith("09") || sdt.StartsWith("08")))
                         {
                             com = new SqlCommand($"Insert into TkDangNhap Values ( null , null ,N'{tk}' , N'{mk}' ,'N'{hvt}',{(gt == "Nam" ? 0 : gt == "Nữ" ? 1 : 2)},N'{ns.Value.ToString("dd-MM-yyyy")}','{gmail}','{sdt}')" , conn);
-                            TkDangNhap tkdn = new TkDangNhap()
+                            //TkDangNhap tkdn = new TkDangNhap()
                             {
 
                             };

@@ -1,7 +1,7 @@
 ﻿using Microsoft.IdentityModel.Tokens;
 using QuanLyDuAnBDS.DB;
 using QuanLyDuAnBDS.Log;
-using QuanLyDuAnBDS.Models;
+using QuanLyDuAnBDS.DomainClass;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -11,13 +11,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using QuanLyDuAnBDS.Context;
 
 namespace Application
 {
     public partial class Register : Form
     {
         ConectionSQL con = new();
-        QlbdsContext db = new QlbdsContext();
+        DBContext db = new DBContext();
         public Register(string textbox)
         {
             InitializeComponent();

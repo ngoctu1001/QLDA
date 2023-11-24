@@ -1,5 +1,6 @@
 ﻿using Application;
-using QuanLyDuAnBDS.Models;
+using QuanLyDuAnBDS.Context;
+using QuanLyDuAnBDS.DomainClass;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -16,7 +17,7 @@ namespace QuanLyDuAnBDS.Log
     {
         private string tk;
         private string mk;
-        QlbdsContext db = new QlbdsContext();
+        DBContext db = new DBContext();
         TkDangNhap tkdn = new TkDangNhap();
         public infor()
         {
