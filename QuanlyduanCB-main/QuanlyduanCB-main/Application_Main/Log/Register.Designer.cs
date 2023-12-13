@@ -92,14 +92,12 @@
             resources.ApplyResources(lb_ThongBao, "lb_ThongBao");
             lb_ThongBao.BackColor = Color.Linen;
             lb_ThongBao.Name = "lb_ThongBao";
-            lb_ThongBao.Hide();
             // 
             // Register
             // 
             AutoScaleMode = AutoScaleMode.None;
             resources.ApplyResources(this, "$this");
             AutoValidate = AutoValidate.EnablePreventFocusChange;
-            BackgroundImage = QuanLyDuAnBDS.Properties.Resources.banner;
             Controls.Add(lb_ThongBao);
             Controls.Add(btn_Dn);
             Controls.Add(btn_Dk);
